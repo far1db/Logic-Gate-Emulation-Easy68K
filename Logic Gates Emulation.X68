@@ -1,6 +1,7 @@
 *-----------------------------------------------------------
 * Title       :  Logic Gates Emulation
-* Description :  
+* Description :  An emulator that reproduces logical functions (AND, OR, XOR, NAND, NOR, XNOR and NOT)
+* Author      :  Farid Boudedja
 *-----------------------------------------------------------
     ORG    $1000
 START:                  ; first instruction of program
